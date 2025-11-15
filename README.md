@@ -77,16 +77,6 @@ Adjust commands for `yarn` if you prefer.
 
 ---
 
-## Configuration & Utilities
-
-Add reusable password logic in `src/utils/passwordUtils.js`. Example utilities:
-
-* `generatePassword(length, options)` — returns a generated string.
-* `calculateStrength(password)` — returns a strength level (weak/medium/strong).
-* Clipboard helper to copy text.
-
----
-
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute:
